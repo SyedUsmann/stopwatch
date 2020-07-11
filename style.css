@@ -1,0 +1,28 @@
+body
+{
+    background-color:#b1ff21!important;
+  margin-top: 100px !important;
+
+}
+h1 .head
+{
+ 
+    color:#3d3d3a;
+    display: inline-block;
+    width: 200px !important;   
+}
+
+.container h1
+{
+    color: #3d3d3a;
+    display: inline-block;
+    width: 20%;
+    min-width: 60px;
+}
+h2{
+    display: inline-block;
+}
+button
+{
+    width: 80px;
+}
